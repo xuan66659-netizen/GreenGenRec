@@ -1,0 +1,13 @@
+﻿metric,value
+recipe_rows,231637.0
+unique_recipe_id,231637.0
+duplicated_recipe_id,0.0
+missing_name_count,1.0
+recipes_with_empty_ingredients,0.0
+avg_ingredient_count,9.051153313158087
+median_ingredient_count,9.0
+recipes_with_empty_tags,109.0
+minutes_missing_count,0.0
+minutes_mean,9398.546009488984
+minutes_median,40.0
+minutes_99_percentile,903.9199999999546

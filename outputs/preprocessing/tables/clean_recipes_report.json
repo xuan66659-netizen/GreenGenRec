@@ -1,0 +1,17 @@
+{
+  "input_file": "D:\\GreenGenRec\\data\\raw\\RAW_recipes.csv",
+  "output_file": "D:\\GreenGenRec\\data\\processed\\clean_recipes_full.csv",
+  "original_rows": 231637,
+  "duplicate_recipe_id_removed": 0,
+  "quality_filter_removed": 1,
+  "final_rows": 231636,
+  "nutrition_columns": [
+    "calories",
+    "total_fat",
+    "sugar",
+    "sodium",
+    "protein",
+    "saturated_fat",
+    "carbohydrates"
+  ]
+}

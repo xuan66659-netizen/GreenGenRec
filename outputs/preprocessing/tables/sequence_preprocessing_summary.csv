@@ -1,0 +1,17 @@
+﻿metric,value
+original_interactions_after_basic_cleaning,1132366
+positive_interactions_rating_ge_threshold,1003724
+interactions_before_kcore,1003724
+interactions_after_initial_kcore,498607
+interactions_after_active_user_subset_and_kcore,382937
+final_interactions_after_sequence_truncation,106662
+final_users,5000
+final_items,25623
+train_interactions,96662
+valid_interactions,5000
+test_interactions,5000
+rating_threshold,4
+user_core,5
+item_core,5
+max_users,5000
+max_seq_len,20

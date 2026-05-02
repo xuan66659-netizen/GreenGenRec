@@ -1,0 +1,11 @@
+﻿metric,value
+interaction_rows,1132367
+unique_users,226570
+unique_interacted_recipes,231637
+rating_missing_count,0
+rating_mean,4.411016039852804
+positive_interactions_rating_ge_4,1003724
+positive_interaction_ratio,0.886394605282563
+date_missing_or_invalid_count,0
+min_date,2000-01-25
+max_date,2018-12-20

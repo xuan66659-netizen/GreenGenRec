@@ -1,0 +1,4 @@
+﻿dataset,rows,columns,column_names
+RAW_recipes,231637,12,"name, id, minutes, contributor_id, submitted, tags, nutrition, n_steps, steps, description, ingredients, n_ingredients"
+RAW_interactions,1132367,5,"user_id, recipe_id, date, rating, review"
+food_emissions_supply_chain,43,10,"Entity, Year, Land use change, Farm, Animal feed, Processing, Transport, Retail, Packaging, Losses"
